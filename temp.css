@@ -1,0 +1,213 @@
+@media only screen and (max-width: 376px) {
+    #header #left {
+      display: none;
+    }
+    #header {
+      padding: 2px 2px 2px 77px;
+    }
+    #header #right {
+      margin-left: 0;
+      font-size: 10px;
+      padding: 1px 0 0 15px;
+      /* padding-left: 10px; */
+    }
+    #header #right li {
+      padding: 5x;
+      padding-left: 0px;
+    }
+    #details #d2,
+    #d3,
+    #d4 {
+      display: none;
+    }
+  
+    #details #d1 h1 {
+      padding: 20px 10px 20px 120px;
+    }
+    #navbar {
+      display: none;
+    }
+    #container1 img {
+      width: 375px;
+      height: 800px;
+    }
+    #container1 #text {
+      text-align: center;
+      padding-left: 25px;
+    }
+    #container1 #text h2 {
+      padding: 55% 0 0 0;
+    }
+    #container1 #text h1 {
+      padding: 65% 0 0 0;
+    }
+    #container1 #text p {
+      padding: 127% 0 0 0;
+    }
+    #container1 button {
+      margin-top: 150%;
+      margin-left: 27%;
+    }
+    #container2 {
+      display: block;
+      top: 120%;
+      width: auto;
+      margin: 0 40px;
+    }
+  
+    #container2 #bx {
+      display: block;
+    }
+    #container2 #bx4 {
+      margin-left: 0;
+      width: 295px;
+    }
+    #container3 #main {
+      display: block;
+      margin-top: 220%;
+    }
+    #container4 {
+      display: block;
+    }
+    #container4 #leftcont4 img {
+      height: 470px;
+      width: 295px;
+      padding-top: 10%;
+    }
+    #container4 #rightcont4 {
+      margin-top: -150px;
+    }
+    #container4 #rightcont4 #r-div #p2 img {
+      margin-left: -310px;
+      top: -10px;
+      width: 350px;
+      height: 350px;
+    }
+    #container5 {
+      z-index: 1;
+      top: -81px;
+    }
+    #container5 #upper {
+      top: -100px;
+      margin: 0;
+    }
+    #container5 #upper p {
+      padding: 10px 10px;
+    }
+    #container5 #lower .lowR1 {
+      display: block;
+    }
+    #container5 #lower .lowR1 .item {
+      margin: 30px 7px;
+    }
+    #container6 img {
+      width: 375px;
+    }
+    #container7 {
+      display: block;
+      z-index: 1;
+      margin-top: 80px;
+      padding: 0 17px 300px 17px;
+    }
+    #container7 #leftbox {
+      width: 100%;
+      /* margin: 20px; */
+      padding: 0 0 0 7px;
+    }
+    #container7 #rightbox {
+      margin-left: 0;
+      padding: 10px 0 0 0;
+    }
+    #container7 #rightbox .row {
+      display: block;
+    }
+    #container7 #rightbox .row #box {
+      width: 282px;
+      height: 250px;
+      margin: 15px 0;
+      padding: 30px;
+    }
+    #container8 #cont8main {
+      display: block;
+      padding: 0 17px;
+    }
+    #container8 #cont8main #left {
+      display: none;
+    }
+    #container8 #right1 {
+      padding: 40px 30px;
+    }
+    #container8 #right1 .input-div .IP {
+      width: 123px;
+      height: 87px;
+      /* display: none; */
+    }
+    #container8 #right1 .input-div .IP input {
+      width: 25px;
+    }
+    /* input firstname lastname */
+    #container8 #right1 .div3 textarea {
+      padding: 15px 58px 85px 30px;
+    }
+    #container8 #right1 .div3 input {
+      padding: 15px 40px 15px 30px;
+      font-size: 15px;
+    }
+    #container9 {
+      padding: 70px 0 120px 0;
+      width: 100%;
+    }
+    #container9 #cont9up #up-p2 {
+      padding: 15px 10px;
+    }
+    #container9 #cont9lw {
+      display: block;
+    }
+    #container9 #cont9lw .div-cont9 {
+      margin: 0;
+      padding: 10px 20px;
+    }
+    #container9 #cont9lw .div-cont9 img {
+      width: 337px;
+      height: 350px;
+    }
+    .div-cont92,
+    .div-cont93 {
+      display: none;
+    }
+    footer #ft-divUP {
+      display: block;
+      padding: 25px 33px;
+    }
+    footer #ft-divLW {
+      display: block;
+    }
+    footer #ft-divUP #divUP1 {
+      padding: 0;
+    }
+    footer #ft-divUP #divUPclass {
+      padding: 10px 10px 0 0;
+    }
+    footer #ft-divUP #divUPclass h2 {
+      padding-top: 20px;
+    }
+    footer #ft-divUP #divUP5 {
+      margin: 5px;
+      padding: 0;
+    }
+    footer #ft-divUP #divUP5 h2 {
+      padding-top: 20px;
+    }
+    footer #ft-divUP #divUP5 p {
+      padding-top: 15px;
+    }
+  
+    footer #ft-divLW #text-R {
+      display: none;
+    }
+    footer #ft-divLW {
+      margin: 10px 1%;
+      padding: 0 0 8% 10px;
+    }
+  }
+  
